@@ -10,7 +10,6 @@
 <li>🧐 Learning about <strong>serverless architectures</strong>, <strong>system design</strong>, and a bit of <strong>JavaScript stack</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/colburncodes">Github</a>.</li>
 <li>📝 I regulary write articles on <a href="#">Coming Soon</a>.</li>
-<li>💬 Ping me about <strong>react, koa, security, and cloud stuff</strong>.</li>
 <li>📙 Check out my <a href="#">resume coming soon</a>.</li>
 </ul>
 <h2>✒️ Recent Posts</h2>
