@@ -16,7 +16,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/colburncodesx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="colburncodesx" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/colburn-sanders/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/colburn-sanders/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/colburn-sanders" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="colburn-sanders" height="30" width="40" /></a>
 <a href="https://medium.com/@colburnsanders" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@colburnsanders" height="30" width="40" /></a>
 </p>
