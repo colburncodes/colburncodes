@@ -1,8 +1,8 @@
 <h1 align="left">Hi 👋, Colburn.</h1>
 <h2 align="left">Software Engineer</h2>
-<h4 align="left">
+<p align="left">
 I love problem solving and writing readable, testable and reliable code.
-</h4>
+</p>
 
 
 <ul dir="auto">
