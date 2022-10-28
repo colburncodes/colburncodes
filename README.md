@@ -8,9 +8,9 @@ I love problem solving and writing readable, testable and reliable code.
 
 <ul dir="auto">
 <li><g-emoji class="g-emoji" alias="earth_africa" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f30d.png">🌍</g-emoji>  I'm based in Illinois</li>
-<li><g-emoji class="g-emoji" alias="desktop_computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f5a5.png">🖥️</g-emoji>  See my portfolio at <a href="https://katycodesstuff.com" rel="nofollow">Coming Soon.</a></li>
-<li><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji>  Read my technical articles at <a href="https://hn.katycodesstuff.com" rel="nofollow">Coming Soon.</a></li>
-<li><g-emoji class="g-emoji" alias="envelope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2709.png">✉️</g-emoji>  You can contact me at <a href="mailto:katycodesstuff@gmail.com">colburnsanders@gmail.com</a> or on Twitter via <a href="https://twitter.com/colburncodesx" rel="nofollow">@colburncodesx</a></li>
+<li><g-emoji class="g-emoji" alias="desktop_computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f5a5.png">🖥️</g-emoji>  See my portfolio at <a href="#" rel="nofollow">Coming Soon.</a></li>
+<li><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji>  Read my technical articles at <a href="#" rel="nofollow">Coming Soon.</a></li>
+<li><g-emoji class="g-emoji" alias="envelope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2709.png">✉️</g-emoji>  You can contact me at <a href="mailto:colburnsanders@gmail.com">colburnsanders@gmail.com</a> or on Twitter via <a href="https://twitter.com/colburncodesx" rel="nofollow">@colburncodesx</a></li>
 <li><g-emoji class="g-emoji" alias="brain" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9e0.png">🧠</g-emoji>  I'm learning React</li>
 </ul>
 
