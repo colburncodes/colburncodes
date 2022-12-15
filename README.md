@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, Colburn.</h1>
-<h2 align="left">Programmer, I push code bruh!</h2>
+<h2 align="left">Programmer.</h2>
 <p>I primarily work with C#/.NET, Angular and TS.</p> Dabble in MongoDB, React, Express, Node, and Federate Graphql
 <p align="left">
 I love problem solving and writing readable, testable and reliable code.
