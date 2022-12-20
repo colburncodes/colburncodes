@@ -6,5 +6,3 @@ I love problem solving and writing readable, testable and reliable code.
 </p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=colburncodes&" alt="colburncodes" /></p>
-
