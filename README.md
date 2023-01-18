@@ -1,8 +1,4 @@
-<p align="center">
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Colburn+Omareo" alt="Typing SVG" />
-  </a>
-</p>
+
 
 <p align="center">
   <a href="https://github.com/colburncodes/readme-typing-svg">
