@@ -9,7 +9,7 @@ Colburn is a C# JavaScript Programmer, Speaker, and Teacher with a passion for l
 * 🌍  I'm based in St. Louis, MO
 * 🚀  I'm currently working on [What To Wear](http://github.com/colburncodes/se_project_react)
 * 🧠  I'm learning everything JavaScript.
-* ⚡  Photography, Running, and Gaming
+* ⚡  Gaming Photography, Running, and Traveling
 
 ### Skills
 
