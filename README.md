@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 =======================================================================================================================================
 
-Developer. Speaker. Teacher.
+Software Engineer
 ----------------------------
 
 Colburn is a builder at heart, and loves solving engineering challenges. Outside of work, he enjoys DIY projects around the house, spending time with his family, perfecting his expresso, and improving his fitness health.
