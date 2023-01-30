@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Developer. Speaker. Teacher.
 ----------------------------
 
-Colburn is a C# JavaScript Programmer, Speaker, and Teacher with a passion for learning new things. He is a full-stack programmer with years of experience in web and desktop applications.
+Colburn is a builder at heart, and loves solving engineering challenges. Outside of work, he enjoys DIY projects around the house, spending time with his family, perfecting his expresso, and improving his fitness health.
 
 * 🌍  I'm based in St. Louis, MO
 * 🚀  I'm currently working on [What To Wear](http://github.com/colburncodes/se_project_react)
