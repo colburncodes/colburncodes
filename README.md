@@ -7,7 +7,7 @@ Software Engineer
 Colburn is a builder at heart, and loves solving engineering challenges. Outside of work, he enjoys DIY projects around the house, spending time with his family, perfecting his expresso, and improving his fitness health.
 
 * 🌍  I'm based in St. Louis, MO
-* 🚀  I'm currently working on [What To Wear](http://github.com/colburncodes/se_project_react)
+* 🚀  I'm currently working on backend server [What To Wear](https://github.com/colburncodes/se_project_express)
 * 🧠  I'm learning everything JavaScript.
 * ⚡  Gaming, Photography, Running, and Traveling
 
@@ -39,4 +39,3 @@ Colburn is a builder at heart, and loves solving engineering challenges. Outside
 
 <a href="http://www.github.com/colburncodes"><img src="https://github-readme-streak-stats.herokuapp.com/?user=colburncodes&stroke=ffffff&background=831843&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/colburncodes"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=colburncodes&bg_color=831843&color=ffffff&line=f97316&point=ffffff&area_color=831843&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
