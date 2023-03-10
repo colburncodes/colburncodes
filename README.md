@@ -2,6 +2,8 @@
 Software Engineer
 ----------------------------
 
-Colburn is a builder at heart, and loves solving engineering challenges. Outside of work, he enjoys DIY projects around the house, spending time with his family, perfecting his expresso, and improving his fitness health.
+Colburn is a builder at heart, and dares you to resize your browser. I dream in JavaScript. React (Nodejs) takes me on adventures. 
+No FTP, bruh. Continuous integration makes the world a better place. 
+I usually love the latest things. Internet Explorer, amirite? I like people, I'm no extrovert, but I work well with others on the team and can communicate to clients.
 
 
