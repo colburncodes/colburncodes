@@ -13,7 +13,7 @@ A Full-Stack Developer by day ☼ and a Open Source Community Contributor by nig
                     </p>
 
 
-<a href="https://twitter.com/colburncodesx">
+<a href="https://twitter.com/whocolburn">
   <img align="left" alt="Colburns's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
 </a>
 <a href="https://www.linkedin.com/in/colburn-sanders/">
