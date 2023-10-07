@@ -9,7 +9,7 @@ A Full-Stack Developer by day ☼ and a Open Source Community Contributor by nig
 *   🌍 I'm based in Midwest.
 *   🔭 I'm currently working on Podverse and Slopopedia.
 *   ⚡  Fun fact: I love to run and dust off my Canon MarkII.
-*   🥅 2024 Goals: Learn more about Cloud and Redis.
+*   🥅 2024 Goals: Dive deeper into learning Cloud and Redis.
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
