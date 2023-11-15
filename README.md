@@ -1,15 +1,6 @@
-Hi 👋 I'm Colburn.
+Hi, I'm Colburn.
 ================================
-
-Software Engineer (Full Stack) - Mentor - Tutor
-------------------------------
-
-A Full-Stack Developer by day ☼ and a Open Source Community Contributor by night ☾
-
-*   🌍 I'm based in Midwest.
-*   🔭 I'm currently working on Podverse and Slopopedia.
-*   ⚡  Fun fact: I love to run and dust off my Canon MarkII.
-*   🥅 2024 Goals: Dive deeper into learning Cloud | Redis | Mobile development.
+Software engineer with 6 years of experience. Worked for innovative startups, large enterprise products, and award-winning agencies. Familiar with both remote, and in-office roles. Always seeking to take ownership of the project and deliver faster than expected. 
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
