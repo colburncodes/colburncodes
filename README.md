@@ -1,6 +1,6 @@
 Hi, I'm Colburn.
 ================================
-Software engineer with 6 years of experience. Worked for innovative startups, large enterprise products, and award-winning agencies. Familiar with both remote, and in-office roles. Always seeking to take ownership of the project and deliver faster than expected. 
+Software engineer with 5+ years of experience. Worked for innovative startups, large enterprise products, and award-winning agencies. Familiar with both remote, and in-office roles. Always seeking to take ownership of the project and deliver faster than expected. 
 
 <a href="https://twitter.com/whocolburn">
   <img align="left" alt="Colburns's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
